@@ -78,7 +78,7 @@ namespace BaiTestDongTienQuang
             // lbPageNumber
             // 
             this.lbPageNumber.AutoSize = true;
-            this.lbPageNumber.Location = new System.Drawing.Point(389, 370);
+            this.lbPageNumber.Location = new System.Drawing.Point(377, 370);
             this.lbPageNumber.Name = "lbPageNumber";
             this.lbPageNumber.Size = new System.Drawing.Size(35, 13);
             this.lbPageNumber.TabIndex = 4;
